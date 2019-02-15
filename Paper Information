@@ -1,0 +1,35 @@
+Huang M, Kao KC. Identifying novel genetic determinants for oxidative stress
+tolerance in Candida glabrata via adaptive laboratory evolution. Yeast 2018
+Nov;35(11):605-618. PMID: 30141215
+https://onlinelibrary.wiley.com/doi/full/10.1002/yea.3352
+
+Image in Issues
+
+LEGEND:
+Bioinformatic analysis of transcriptome data.
+A, Venn diagram showing number of differentially expressed genes in each adaptive mutant and
+expression of genes in “organic acid biosynthetic process” enriched in the gene ontology (GO)
+term analysis. ND, Not differentially expressed.
+B, List of enriched transcription factors (TFs) from “Rank by TF” analysis (TF highlighted in yellow
+are mutated in the respective mutant) and gene expression of genes in select enriched GO terms
+for H2‐11G and H2‐18Y
+INTRODUCTION:
+This paper’s main goal is to identify the mechanism of tolerance of C. glabrata to H2O2. They
+have identified adaptive mutants isolated from C. glabrata strains that have showed resistance
+to gradually increasing concentrations of H2O2 added by using ALE (Adaptive Laboratory
+Evolution). To the adaptive mutants isolated they have performed phenotypic and omic analysis.
+They have used genome resequencing and genome wide transcriptome analysis to so, which is
+what I hope to reproduce. By, doing these analyses, they identified multiple genetic determinants
+which are potentially responsible for enhanced resistance to stress.
+They have used periodic oxidative stress challenge strategy and evolved parallel populations of
+C. glabrata for isolating genetic mutants capable that tolerated increasing stress conditions from
+80mM to 350mM of H2O2. They have identified 4 major adaptive mutations (H2 family) which
+they have sequenced and performed gene ontology (GO) term analysis to identify significantly
+enriched biological process. Ultimately, they have identified additional genes (Akl1, Ydj1, Pdc1,
+Tal1, Mga2, Hmo1, Sin3, Ace2) which likely also play roles in oxidative stress tolerance in C.
+glabrata.
+The figure I wish to reproduce shows the number of differentially expressed genes enriched in
+the gene ontology (GO) term analysis, in each of the adaptive mutant and expression of genes in
+“organic acid biosynthetic process”. Another part of the figure gives details about enriched
+transcription factors (TFs) and gene expression of genes for enriched GO terms for H2‐11G and
+H2‐18Y
